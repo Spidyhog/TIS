@@ -61,7 +61,7 @@ while($newarr=mysqli_fetch_array($res))
 <section>
 </section>
 <footer class="r">
-<p>Shop more! Save more!</p>
+<p>Shop more! Save more! Stay Happy!</p>
 </footer>
 </body>
 </html>
